@@ -6,4 +6,21 @@
     <string name="mobile">Номер</string>
     <string name="password">Пароль</string>
     <string name="login2">Зарегистрироваться</string>
+    <string name="place_or_product">Место или продукт</string>
+    <string name="all">Все</string>
+    <string name="burger">Бургеры</string>
+    <string name="pizza">Пицца</string>
+    <string name="desserts">Десерты</string>
+    <string name="pizzaa">PIZZAA</string>
+    <string name="burgerb">BurgerB</string>
+    <string name="itpiz">ItPiz</string>
+    <string name="_75_00_som">75.00 сом</string>
+    <string name="_93percent">93%</string>
+    <string name="_600">(600)</string>
+    <string name="_65_00">65.00 сом</string>
+    <string name="_95percent">95%</string>
+    <string name="_520">(520)</string>
+    <string name="_85_00">85.00 сом</string>
+    <string name="_91percent">91%</string>
+    <string name="_325">(325)</string>
 </resources>

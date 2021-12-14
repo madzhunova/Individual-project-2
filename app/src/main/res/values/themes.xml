@@ -35,4 +35,24 @@
         <item name="android:text">@string/login2</item>
         <item name="android:textAllCaps">false</item>
     </style>
+    <style name="place_or_product">
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+        <item name="android:text">@string/place_or_product</item>
+    </style>
+    <style name="all">
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+        <item name="android:text">@string/all</item>
+    </style>
+    <style name="itpiz">
+        <item name="android:textSize">@dimen/text_size_24sp</item>
+        <item name="android:textColor">@color/text_color_white</item>
+        <item name="android:text">@string/itpiz</item>
+    </style>
+    <style name="som">
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+        <item name="android:text">@string/_75_00_som</item>
+    </style>
 </resources>
