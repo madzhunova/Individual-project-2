@@ -23,4 +23,9 @@
     <string name="_85_00">85.00 сом</string>
     <string name="_91percent">91%</string>
     <string name="_325">(325)</string>
+    <string name="sort_for">Сортировать по</string>
+    <string name="near_with_me">Рядом со мной</string>
+    <string name="delivery_cost">Стоимость доставки</string>
+    <string name="high_raiting">С высоким рейтингом</string>
+    <string name="restraunts">Рестораны</string>
 </resources>

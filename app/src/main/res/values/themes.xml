@@ -55,4 +55,14 @@
         <item name="android:textColor">@color/text_color_black</item>
         <item name="android:text">@string/_75_00_som</item>
     </style>
+    <style name="sortfor">
+        <item name="android:textSize">@dimen/text_size_24sp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+        <item name="android:text">@string/sort_for</item>
+    </style>
+    <style name="near_with_me">
+        <item name="android:textSize">@dimen/text_size_18sp</item>
+        <item name="android:textColor">@color/text_color_black</item>
+        <item name="android:text">@string/near_with_me</item>
+    </style>
 </resources>
