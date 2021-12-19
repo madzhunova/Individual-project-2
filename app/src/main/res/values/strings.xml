@@ -56,4 +56,6 @@
     <string name="text13">Выполняется</string>
     <string name="text14">Получение</string>
     <string name="text15">Доставка</string>
+    <string name="text16">Учетная запись</string>
+    <string name="text17">Мои заказы</string>
 </resources>
