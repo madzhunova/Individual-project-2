@@ -28,4 +28,8 @@
     <string name="delivery_cost">Стоимость доставки</string>
     <string name="high_raiting">С высоким рейтингом</string>
     <string name="restraunts">Рестораны</string>
+    <string name="itpiz_search">Поиск в ItPiz</string>
+    <string name="itpiz">ItPiz</string>
+    <string name="_35_40">35-40 мин</string>
+    <string name="the_popular_sale">ХИТ ПРОДАЖ</string>
 </resources>

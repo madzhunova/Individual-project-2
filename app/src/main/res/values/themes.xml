@@ -65,4 +65,9 @@
         <item name="android:textColor">@color/text_color_black</item>
         <item name="android:text">@string/near_with_me</item>
     </style>
+    <style name="min">
+        <item name="android:text">@string/_35_40</item>
+        <item name="android:textColor">@color/text_color_black</item>
+        <item name="android:textSize">@dimen/text_size_14sp</item>
+    </style>
 </resources>
