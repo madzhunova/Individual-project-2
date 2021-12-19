@@ -42,4 +42,12 @@
     <string name="pepperoni_30_size">“Пепперони” традиционное тесто (30 см.)</string>
     <string name="_170">+170 сом</string>
     <string name="text5">Оплата заказа</string>
+    <string name="text6">Ваш заказ</string>
+    <string name="text7">Продуктов из ItPiz: 2</string>
+    <string name="_1x_23">1x Пепперони традиционное тесто (23 см)</string>
+    <string name="_1x_23_2">1x Маргарита традиционное тесто (23 см)</string>
+    <string name="_300">300 сом</string>
+    <string name="text8">Указать информацию об аллергии</string>
+    <string name="text9">Информация о доставке</string>
+    <string name="text10">Подтвердите заказ</string>
 </resources>
