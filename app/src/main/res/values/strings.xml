@@ -50,4 +50,10 @@
     <string name="text8">Указать информацию об аллергии</string>
     <string name="text9">Информация о доставке</string>
     <string name="text10">Подтвердите заказ</string>
+    <string name="help">Помощь</string>
+    <string name="tezt11">Ориентировочное время прибытие курьера</string>
+    <string name="text12">Ресторан получил ваш заказ</string>
+    <string name="text13">Выполняется</string>
+    <string name="text14">Получение</string>
+    <string name="text15">Доставка</string>
 </resources>
