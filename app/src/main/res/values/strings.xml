@@ -58,4 +58,10 @@
     <string name="text15">Доставка</string>
     <string name="text16">Учетная запись</string>
     <string name="text17">Мои заказы</string>
+    <string name="text_18">Моя информациия</string>
+    <string name="text19">Почта</string>
+    <string name="text20">Изменить пароль</string>
+    <string name="text21">Изменить номер телефона</string>
+    <string name="text22">Способ оплаты</string>
+    <string name="text23">Настройки конфиденциальности</string>
 </resources>
