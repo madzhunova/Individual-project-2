@@ -33,4 +33,12 @@
     <string name="_35_40">35-40 мин</string>
     <string name="the_popular_sale">ХИТ ПРОДАЖ</string>
     <string name="pizza1">ПИЦЦА</string>
+    <string name="pepperoni_23_size">Пепперони традиционное тесто (23 см.)</string>
+    <string name="_365">365 сом</string>
+    <string name="text1">Фирменный томатный соус, пепперони, моцарелла</string>
+    <string name="text2">Выберите размер Пепперони традиционное тесто</string>
+    <string name="text3">Выбрать один вариант</string>
+    <string name="text4">ОБЯЗАТЕЛЬНО</string>
+    <string name="pepperoni_30_size">“Пепперони” традиционное тесто (30 см.)</string>
+    <string name="_170">+170 сом</string>
 </resources>
