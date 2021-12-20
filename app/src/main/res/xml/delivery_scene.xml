@@ -7,6 +7,11 @@
         motion:constraintSetEnd="@+id/end"
         motion:constraintSetStart="@id/start"
         motion:duration="1000">
+
+        <OnClick
+            motion:clickAction="toggle"
+            motion:targetId="@id/cardView3"/>
+
        <KeyFrameSet>
        </KeyFrameSet>
     </Transition>
