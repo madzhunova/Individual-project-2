@@ -10,6 +10,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FoodieIndividualProject2MadzhunovaAnelyaDHT219">
         <activity
+            android:name=".The_Order_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".Cafes_Menu_Activity"
+            android:exported="true" />
+        <activity
+            android:name=".LogIn"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

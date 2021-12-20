@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    app:layoutDescription="@xml/delivery_scene">
 
 
     <ImageView
+        android:id="@+id/imageView26"
         android:layout_width="30dp"
         android:layout_height="30dp"
-        android:layout_marginTop="10dp"
         android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/arrow_4" />
@@ -118,10 +120,11 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/linearLayout17"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
         android:layout_marginStart="40dp"
+        android:orientation="horizontal"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout13">
 
@@ -135,23 +138,24 @@
             style="@style/min"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/text14"
-            android:layout_marginStart="35dp"/>
+            android:layout_marginStart="35dp"
+            android:text="@string/text14" />
 
         <EditText
             style="@style/min"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/text15"
-            android:layout_marginStart="50dp"/>
+            android:layout_marginStart="50dp"
+            android:text="@string/text15" />
 
     </LinearLayout>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/cardView4"
         android:layout_width="500dp"
         android:layout_height="100dp"
-        app:cardCornerRadius="300dp"
         android:backgroundTint="@color/light_orange_color"
+        app:cardCornerRadius="300dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
@@ -164,4 +168,4 @@
 
     </androidx.cardview.widget.CardView>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.constraintlayout.motion.widget.MotionLayout>
