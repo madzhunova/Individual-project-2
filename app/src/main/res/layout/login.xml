@@ -32,11 +32,10 @@
             android:layout_height="wrap_content" />
 
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            app:srcCompat="@drawable/rectangle_4" />
+        <Button
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/light_red_color"/>
 
         <EditText
             style="@style/name"
@@ -46,11 +45,10 @@
             android:text="@string/mobile" />
 
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            app:srcCompat="@drawable/rectangle_4" />
+        <Button
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/light_red_color"/>
 
         <EditText
             style="@style/name"
@@ -60,11 +58,10 @@
             android:text="@string/password" />
 
 
-        <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
-            app:srcCompat="@drawable/rectangle_4" />
+        <Button
+            android:layout_width="350dp"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/light_red_color"/>
 
     </LinearLayout>
 
